@@ -1,0 +1,56 @@
+.img1{
+height: 10px;
+margin-top: 5px;
+margin-right: 10px;
+float: right;
+}
+.box1{
+width: 480px;
+height: 40px;
+margin: 20px 700px;
+background-color: whitesmoke;
+border-radius: 15px;
+border-style: solid;
+border-width: 1pt;
+}
+
+.box{
+    float: right;
+      right: 0;
+      background-color: rgb(74, 74, 255);
+      color: white;
+}
+.box2{
+
+      margin:470px 0 0 0;
+    
+    
+}
+
+.right
+   {
+      float: right;
+      right: 0;
+   }
+   .img{
+    margin: 200px 800px 0px 800px
+   }
+   .card{
+    background-color: rgb(233, 229, 229);
+    height:15px;
+    padding: 6px;
+    padding-left: 30px;
+    width: 120px;
+    margin: 15px 780px;
+    border-radius: 5px;
+   }
+   .card1{
+    background-color:rgb(233, 229, 229);
+    height:15px;
+    padding: 6px;
+    padding-left: 30px;
+    width: 120px;
+    margin: -24px 145px;
+    border-radius: 5px;
+   }
+  
